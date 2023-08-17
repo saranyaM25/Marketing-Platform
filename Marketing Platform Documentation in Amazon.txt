@@ -1,0 +1,25 @@
+Marketing Platform Documentation in Amazon - Users
+--------------------------------------------------
+
+*First user view - home page
+*Next user already in account so login otherwise create new account - Create new account page
+*Next login userdetails- login page
+*User can change our language 
+*Many category pages - Electronic devices,home appliances etc...,
+*Product pages - That product details are available 
+		  Offers 
+		  ------
+			EMI
+			Bank offer
+			cashback
+		- Add to cart page - if you click add to cart that product add in your account shopping cart page
+		- Else you click buy now to redirect checkout page available payment methods - credit or debit card , net banking and other UPI app
+
+*Returns&orders page - 	that page available are orders,that product buy again and cancelled orders 
+
+*Cart Page - Your add to cart products are available
+*Finally sign out in your account - sign out page
+
+
+*Marketing Platform - Seller page available
+	
